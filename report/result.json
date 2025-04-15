@@ -1,0 +1,9 @@
+{
+  "rowCountCheck": {
+    "status": "failed",
+    "sourceCount": 10,
+    "targetCount": 11,
+    "message": "Row count mismatch"
+  },
+  "status": "failed"
+}

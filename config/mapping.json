@@ -1,0 +1,11 @@
+{
+    "fieldMapping": {
+        "currencyid": "curr_code",
+        "branchid": "office_code",
+        "agreementno": "agrmnt_no",
+        "customerid": "cust_no",
+        "customerid": "spouse_no",
+        "numofassetunit": "num_of_asset"
+    },
+    "uniqueKey": "agreementno"
+}
